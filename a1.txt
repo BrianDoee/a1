@@ -1,0 +1,12 @@
+2. Home directory path is, I used the find -h and find -l commands to find the directory path. 
+3. The UID for my system is 1040, it is within the windows group of application account and I used the id -u command.
+4. AFter creating temp I am not allowed to ls, ls -l, or create files under the directory.
+5.After creating temp3 it is allowed to cp to the temp2 directory. To copy an entire directory I would use the cp command with -R.  
+6. In the /proc/ directory the meminfo would contain info about memory, and cpuinfo contains info about cpu on server. 
+7. There is 4074 megabytes of memory within the server. 
+8. There are 2 processors within the server using a RISC architecture with 4.19 GHz of speed. 
+10. After searching for great there is 108 hashtags containing it. 
+11. The encoding for the dataset is in ascii form with utf-8 encoding. 
+12. Done
+13. There is a total of 156 users tweeting the hashtag of the first columnn. There are 1092 unique tweets in the last column and 300 unique hashtags which 
+is less than tweets. D
